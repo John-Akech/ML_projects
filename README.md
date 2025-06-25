@@ -20,6 +20,7 @@ This project uses machine learning to classify sonar signals as either **rocks**
 ##  Folder Structure
 
 ML_projects/
+
 ├── app.py                         # Streamlit web app
 
 ├── Complete_Sonar_Classifier_Project.ipynb  # Full ML notebook
