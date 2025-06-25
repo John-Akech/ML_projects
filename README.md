@@ -14,7 +14,7 @@ This project uses machine learning to classify sonar signals as either **rocks**
 
 ##  Demo
 
- _Coming Soon: [Streamlit App](https://mlprojectsgit-p2cazmzdyupyrdbx2brfgz.streamlit.app/)_
+ [Streamlit App](https://mlprojectsgit-p2cazmzdyupyrdbx2brfgz.streamlit.app/)_
 
 
 ##  Folder Structure
