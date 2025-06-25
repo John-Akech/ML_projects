@@ -21,11 +21,17 @@ This project uses machine learning to classify sonar signals as either **rocks**
 
 ML_projects/
 ├── app.py                         # Streamlit web app
+
 ├── Complete_Sonar_Classifier_Project.ipynb  # Full ML notebook
+
 ├── requirements.txt              # Required packages
+
 ├── sonar_rf_model.pkl            # Final trained model
+
 ├── scaler.pkl                    # Saved standard scaler
+
 ├── Datasets/
+
 │   └── Sonar data                # Original dataset
 
 
