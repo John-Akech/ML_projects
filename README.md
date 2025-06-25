@@ -1,6 +1,6 @@
 #  Sonar Rock vs Mine Classifier
 
-This project uses machine learning to classify sonar signals as either **rocks** or **mines**, based on frequency-based features. It demonstrates a complete **end-to-end ML pipeline** — from data cleaning and exploration to model tuning, evaluation, and web app deployment.
+This project uses machine learning to classify sonar signals as either **rocks** or **mines**, based on frequency-based features. It demonstrates a complete **end-to-end ML pipeline** from data cleaning and exploration to model tuning, evaluation, and web app deployment.
 
 
 
@@ -68,17 +68,23 @@ ML_projects/
 ## How to Run Locally
 
 # Clone the repo
+
 git clone https://github.com/John-Akech/ML_projects.git
+
 cd ML_projects
 
 # (Optional) Create a virtual environment
+
 python -m venv venv
+
 venv\Scripts\activate  # On Windows
 
 # Install dependencies
+
 pip install -r requirements.txt
 
 # Launch the app
+
 streamlit run app.py
 
 
